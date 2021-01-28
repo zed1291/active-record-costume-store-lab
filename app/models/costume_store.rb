@@ -1,3 +1,3 @@
 # Create your CostumeStore class here
-class CostumeStore < ActiveDirector:Base
+class CostumeStore < ActiveRecord:Base
 end
